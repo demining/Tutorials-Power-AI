@@ -6,7 +6,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"fontSize":"medium"} -->
-## <p class="has-medium-font-size"><strong>&nbsp;<a href="https://tutorials.pw/">Categories of Artificial Intelligence</a></strong></p>
+## <p class="has-medium-font-size"><strong>&nbsp;<a href="https://tutorials.pw/">Categories of Artificial Intelligence for Business:</a></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
